@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Understanding the 2016 Presidential Election</title>
+    <link>https://bwarren2.github.io/voting_2016/</link>
+    <description>Recent content on Understanding the 2016 Presidential Election</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Feb 2019 01:59:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://bwarren2.github.io/voting_2016/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://bwarren2.github.io/voting_2016/about/</link>
+      <pubDate>Wed, 13 Feb 2019 01:59:00 -0500</pubDate>
+      
+      <guid>https://bwarren2.github.io/voting_2016/about/</guid>
+      <description>TL;DR This is about the 2016 Presidential Election. Start here.
+Why is this here? Everyone I know has had feelings about What Happened in 2016, but most of them have different answers and few have much evidence. Some claim Berniebros torpedoed Hillary&amp;rsquo;s campaign, some blame low turnout among minority voters, some some blame the candidate and some blame the zeitgeist.
+But we can do better than that. We can, and should, produce analysis that is clear, accessible, and informative, so we can know our past and learn for the future.</description>
+    </item>
+    
+    <item>
+      <title>Think Carefully About Charts</title>
+      <link>https://bwarren2.github.io/voting_2016/slides-1.0/income/</link>
+      <pubDate>Wed, 13 Feb 2019 01:58:58 -0500</pubDate>
+      
+      <guid>https://bwarren2.github.io/voting_2016/slides-1.0/income/</guid>
+      <description>This chart is easy to misread, because it doesn&amp;rsquo;t display differences. What if in 2012, Romney got 100% of the vote from people making $100K or more, and no votes from other income segments? Then Trump would have been wildly overperforming in the &amp;lt;$100K groups and underperforming in the &amp;gt;$100K group, but you can&amp;rsquo;t see that from this chart.
+In order to get a handle on what changed between 2012 (when the Democrat won) and 2016 (when the Republican won), we need to take the differences between those years.</description>
+    </item>
+    
+    <item>
+      <title>Overperformance Map</title>
+      <link>https://bwarren2.github.io/voting_2016/slides-1.0/overperformance_map/</link>
+      <pubDate>Wed, 13 Feb 2019 01:58:00 -0500</pubDate>
+      
+      <guid>https://bwarren2.github.io/voting_2016/slides-1.0/overperformance_map/</guid>
+      <description>Where did Trump surpass Romney? Methods To understand what made 2016 different from 2012, we can just subtract.
+We can approximate the Trump effect as the difference between the 2016 Republicans Presidential vote percentage and the 2012 percentage to see where Trump outperformed Romney (and won while Romney lost).
+Results For example, in Winnebago, Wisconsin, Romney got 47% of the vote and Trump got 50.5%. This is a +3% Republican shift that flipped the county from blue to red.</description>
+    </item>
+    
+    <item>
+      <title>Education vs Republican Shift</title>
+      <link>https://bwarren2.github.io/voting_2016/slides-1.0/education_scatter/</link>
+      <pubDate>Wed, 13 Feb 2019 01:57:00 -0500</pubDate>
+      
+      <guid>https://bwarren2.github.io/voting_2016/slides-1.0/education_scatter/</guid>
+      <description>We can start to investigate the drivers of 2012-&amp;gt;2016 Republican voting shift by examining the characteristics of each county. Here we see what fraction of a county has a high school degree or less vs the 2016 shift toward Trump.
+We can see on the map that the low outliers are Utah and Idaho. This makes sense; McMullin was a spoiler candidate for Republicans in those states and especially popular among Mormons, who disliked Trump.</description>
+    </item>
+    
+    <item>
+      <title>Race vs Republican Shift</title>
+      <link>https://bwarren2.github.io/voting_2016/slides-1.0/race_scatter/</link>
+      <pubDate>Wed, 13 Feb 2019 01:56:30 -0500</pubDate>
+      
+      <guid>https://bwarren2.github.io/voting_2016/slides-1.0/race_scatter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Education vs Race vs Republican Shift</title>
+      <link>https://bwarren2.github.io/voting_2016/slides-1.0/education_vs_race_vs_shift/</link>
+      <pubDate>Wed, 13 Feb 2019 01:56:00 -0500</pubDate>
+      
+      <guid>https://bwarren2.github.io/voting_2016/slides-1.0/education_vs_race_vs_shift/</guid>
+      <description>Comparing Three Variables At Once   Methods This is a plotly 3D scatterplot of the two previous variables and the calculated Republican shift. Putting them on the same plot at the same time makes it possible to easily see how the two variables are interacting.
+Results Some observations immediately jump off of the page:
+A plane describes most of the points outside of the high-white, high-high-school-only area If you had to draw a flat surface to approximate most of the plot, it would have a positive slope in the education dimension (more high-school-only-educated people means more Republican shift) and very little slope in the % white dimension (having fewer minority people doesn&amp;rsquo;t change things much).</description>
+    </item>
+    
+    <item>
+      <title>Colored Outliers</title>
+      <link>https://bwarren2.github.io/voting_2016/slides-1.0/colored-outliers/</link>
+      <pubDate>Wed, 13 Feb 2019 01:55:00 -0500</pubDate>
+      
+      <guid>https://bwarren2.github.io/voting_2016/slides-1.0/colored-outliers/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Outlier_map</title>
+      <link>https://bwarren2.github.io/voting_2016/slides-1.0/outlier_map/</link>
+      <pubDate>Wed, 13 Feb 2019 01:54:00 -0500</pubDate>
+      
+      <guid>https://bwarren2.github.io/voting_2016/slides-1.0/outlier_map/</guid>
+      <description> Where does education not explain Trump overperformance? </description>
+    </item>
+    
+  </channel>
+</rss>

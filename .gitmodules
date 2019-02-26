@@ -1,0 +1,3 @@
+[submodule "slides/themes/tale-hugo"]
+	path = slides/themes/tale-hugo
+	url = https://github.com/bwarren2/tale-hugo

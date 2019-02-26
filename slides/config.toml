@@ -1,0 +1,9 @@
+baseURL = "https://bwarren2.github.io/voting_2016/"
+languageCode = "en-us"
+title = "Understanding the 2016 Presidential Election"
+theme = "tale-hugo"
+canonifyurls = true
+author = "Ben"
+[Author]
+    name = "Ben"
+
