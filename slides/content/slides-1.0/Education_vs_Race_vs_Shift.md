@@ -5,13 +5,30 @@ draft: false
 author: "Ben"
 ---
 
+# Education
+
+{{<localplotly "education_vs_shift.html" 600 600>}}
+
+We can start to investigate the drivers of 2012->2016 Republican voting shift by examining the characteristics of each county.  Here we see what fraction of a county has a high school degree or less vs the 2016 shift toward Trump.
+
+We can see [on the map]({{< ref "basic_maps" >}}) that the low outliers are Utah and Idaho.  This makes sense; McMullin was a spoiler candidate for Republicans in those states and especially popular among Mormons, who disliked Trump.
+
+{{<localplotly "education_vs_shift_wo_id_ut.html" 600 600>}}
+
+When we remove Idaho and Utah, the relationship becomes a bit clearer, but is still a drumstick instead of the line that would indicate a clean relationship.  What if we consider the oft-cited influence of race in the election?
+
+# Racial Composition
+
+{{<localplotly "race_vs_shift_wo_id_ut.html" 600 600>}}
+
+
 # Comparing Three Variables At Once
 
-<div style="display: block;margin-left: auto; margin-right: auto;">
-<iframe width="800" height="800" frameborder="0" scrolling="no" src="//plot.ly/~bwarren2/2.embed"></iframe>
-</div>
+{{<localplotly "race_vs_ed_vs_shift.html" 800 700>}}
+
 
 ## Methods
+
 
 This is a plotly 3D scatterplot of the two previous variables and the calculated Republican shift.  Putting them on the same plot at the same time makes it possible to easily see how the two variables are interacting.
 

@@ -6,4 +6,5 @@ canonifyurls = true
 author = "Ben"
 [Author]
     name = "Ben"
-
+[Params]
+    css = ["css/custom.css"]

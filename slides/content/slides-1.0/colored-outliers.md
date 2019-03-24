@@ -5,4 +5,4 @@ draft: false
 author: "Ben"
 ---
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~bwarren2/4.embed"></iframe>
+{{<localplotly "simple-3d-scatter-colored.html" 900 700>}}
