@@ -38,18 +38,51 @@
 
 <main>
 	<div class="post">
+		<div class="post-info">
+    <span>Written by</span>
+        Ben
+        <br>
+        <span>on&nbsp;</span><time datetime="2019-02-13 01:56:00 -0500 EST">February 13, 2019</time>
+</div>
 		<h1 class="post-title">Education vs Race vs Republican Shift</h1>
 <div class="post-line"></div>
 
+
 		
 
 		
+
+<h1 id="education">Education</h1>
+
+<div class='centered-plotly' style='width:600px; height:600px; margin:0 auto;'>
+    <iframe src="https://bwarren2.github.io/voting_2016/education_vs_shift.html" frameborder="0" style='width:600px; height:600px'></iframe>
+</div>
+
+
+<p>We can start to investigate the drivers of 2012-&gt;2016 Republican voting shift by examining the characteristics of each county.  Here we see what fraction of a county has a high school degree or less vs the 2016 shift toward Trump.</p>
+
+<p>We can see <a href="https://bwarren2.github.io/voting_2016/slides-1.0/basic_maps/">on the map</a> that the low outliers are Utah and Idaho.  This makes sense; McMullin was a spoiler candidate for Republicans in those states and especially popular among Mormons, who disliked Trump.</p>
+
+<div class='centered-plotly' style='width:600px; height:600px; margin:0 auto;'>
+    <iframe src="https://bwarren2.github.io/voting_2016/education_vs_shift_wo_id_ut.html" frameborder="0" style='width:600px; height:600px'></iframe>
+</div>
+
+
+<p>When we remove Idaho and Utah, the relationship becomes a bit clearer, but is still a drumstick instead of the line that would indicate a clean relationship.  What if we consider the oft-cited influence of race in the election?</p>
+
+<h1 id="racial-composition">Racial Composition</h1>
+
+<div class='centered-plotly' style='width:600px; height:600px; margin:0 auto;'>
+    <iframe src="https://bwarren2.github.io/voting_2016/race_vs_shift_wo_id_ut.html" frameborder="0" style='width:600px; height:600px'></iframe>
+</div>
+
 
 <h1 id="comparing-three-variables-at-once">Comparing Three Variables At Once</h1>
 
-<div style="display: block;margin-left: auto; margin-right: auto;">
-<iframe width="800" height="800" frameborder="0" scrolling="no" src="//plot.ly/~bwarren2/2.embed"></iframe>
+<div class='centered-plotly' style='width:800px; height:700px; margin:0 auto;'>
+    <iframe src="https://bwarren2.github.io/voting_2016/race_vs_ed_vs_shift.html" frameborder="0" style='width:800px; height:700px'></iframe>
 </div>
+
 
 <h2 id="methods">Methods</h2>
 
@@ -82,23 +115,17 @@
 	</div>
 
 	<div class="pagination">
-		<a href="https://bwarren2.github.io/voting_2016/slides-1.0/colored-outliers/" class="left arrow">&#8592;</a>
-		<a href="https://bwarren2.github.io/voting_2016/slides-1.0/race_scatter/" class="right arrow">&#8594;</a>
+		<a href="https://bwarren2.github.io/voting_2016/slides-1.0/basic_maps/" class="left arrow">&#8592;</a>
+		<a href="https://bwarren2.github.io/voting_2016/slides-1.0/colored-outliers/" class="right arrow">&#8594;</a>
 
 		<a href="#" class="top">Top</a>
-		<div class="post-info">
-    <span>Written by</span>
-        Ben
-        <br>
-        <span>on&nbsp;</span><time datetime="2019-02-13 01:56:00 -0500 EST">February 13, 2019</time>
-</div>
 	</div>
 </main>
 
 
         		<footer>
 			<span>
-			&copy; <time datetime="2019-02-25 21:07:32.161074 -0500 EST m=&#43;0.046763223">2019</time> Ben. Made with <a href='https://gohugo.io'>Hugo</a> using the <a href='https://github.com/EmielH/tale-hugo/'>Tale</a> theme.
+			&copy; <time datetime="2019-03-24 20:59:16.84159 -0400 EDT m=&#43;0.052512292">2019</time> Ben. Made with <a href='https://gohugo.io'>Hugo</a> using the <a href='https://github.com/EmielH/tale-hugo/'>Tale</a> theme.
 			</span>
 		</footer>
 
