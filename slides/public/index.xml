@@ -17,12 +17,13 @@
       <pubDate>Wed, 13 Feb 2019 01:59:00 -0500</pubDate>
       
       <guid>https://bwarren2.github.io/voting_2016/about/</guid>
-      <description>What is this? Why is this here? Everyone I know has had feelings about What Happened in 2016, but most of them have different answers and few have much evidence. Some claim Berniebros torpedoed Hillary&amp;rsquo;s campaign, some blame low turnout among minority voters, some some blame the candidate and some blame the zeitgeist.
+      <description>TL;DR This is about the 2016 Presidential Election. Start here.
+Why is this here? Everyone I know has had feelings about What Happened in 2016, but most of them have different answers and few have much evidence. Some claim Berniebros torpedoed Hillary&amp;rsquo;s campaign, some blame low turnout among minority voters, some some blame the candidate and some blame the zeitgeist.
 But we can do better than that. We can, and should, produce analysis that is clear, accessible, and informative, so we can know our past and learn for the future.</description>
     </item>
     
     <item>
-      <title>Avoid Charts The Conceal Information</title>
+      <title>Think Carefully About Charts</title>
       <link>https://bwarren2.github.io/voting_2016/slides-1.0/income/</link>
       <pubDate>Wed, 13 Feb 2019 01:58:58 -0500</pubDate>
       
@@ -32,23 +33,13 @@ In order to get a handle on what changed between 2012 (when the Democrat won) an
     </item>
     
     <item>
-      <title>Overperformance Map</title>
-      <link>https://bwarren2.github.io/voting_2016/slides-1.0/overperformance_map/</link>
+      <title>Basic Performance Analysis</title>
+      <link>https://bwarren2.github.io/voting_2016/slides-1.0/basic_maps/</link>
       <pubDate>Wed, 13 Feb 2019 01:58:00 -0500</pubDate>
       
-      <guid>https://bwarren2.github.io/voting_2016/slides-1.0/overperformance_map/</guid>
-      <description>Where did Trump surpass Romney? Methods To understand what made 2016 different from 2012, we can just subtract.
-We can approximate the Trump effect as the difference between the 2016 Republicans Presidential vote percentage and the 2012 percentage to see where Trump outperformed Romney (and won while Romney lost).
-Results For example, in Winnebago, Wisconsin, Romney got 47% of the vote and Trump got 50.5%. This is a +3% Republican shift that flipped the county from blue to red.</description>
-    </item>
-    
-    <item>
-      <title>Education vs Republican Shift</title>
-      <link>https://bwarren2.github.io/voting_2016/slides-1.0/education_scatter/</link>
-      <pubDate>Wed, 13 Feb 2019 01:57:00 -0500</pubDate>
-      
-      <guid>https://bwarren2.github.io/voting_2016/slides-1.0/education_scatter/</guid>
-      <description>We can start to investigate the drivers of 2012-&amp;gt;2016 Republican voting shift by examining the characteristics of each county.</description>
+      <guid>https://bwarren2.github.io/voting_2016/slides-1.0/basic_maps/</guid>
+      <description>Where did Democrats have a large percentage of the vote?  Where did Republicans have a large percentage of the vote?  Where and how did the Democratic turnout change?  Where and how did the Republican turnout change?  Where was the net Republican shift?  Methods To understand what made 2016 different from 2012, we can just subtract.
+We can approximate the Trump effect as the difference between the 2016 Republicans Presidential vote percentage and the 2012 percentage to see where Trump outperformed Romney (and won while Romney lost).</description>
     </item>
     
     <item>
@@ -57,36 +48,32 @@ Results For example, in Winnebago, Wisconsin, Romney got 47% of the vote and Tru
       <pubDate>Wed, 13 Feb 2019 01:56:00 -0500</pubDate>
       
       <guid>https://bwarren2.github.io/voting_2016/slides-1.0/education_vs_race_vs_shift/</guid>
-      <description>Comparing Three Variables At Once   Methods This is a plotly 3D scatterplot of the two previous variables and the calculated Republican shift. Putting them on the same plot at the same time makes it possible to easily see how the two variables are interacting.
-Results Some observations immediately jump off of the page:
-A plane describes most of the points outside of the high-white, high-high-school-only area If you had to draw a flat surface to approximate most of the plot, it would have a positive slope in the education dimension (more high-school-only-educated people means more Republican shift) and very little slope in the % white dimension (having fewer minority people doesn&amp;rsquo;t change things much).</description>
+      <description>Education   (These charts are interactive. Mouseover to get values of nearby points, or click the legend to show/hide series.)
+We can start to investigate the drivers of 2012-&amp;gt;2016 Republican voting shift by examining the characteristics of each county. Here we see what fraction of a county has a high school degree or less vs the 2016 shift toward Trump.
+We can see on the map that the low outliers are Utah and Idaho.</description>
     </item>
     
     <item>
-      <title>Colored Outliers</title>
+      <title>Where are the outliers?</title>
       <link>https://bwarren2.github.io/voting_2016/slides-1.0/colored-outliers/</link>
       <pubDate>Wed, 13 Feb 2019 01:55:00 -0500</pubDate>
       
       <guid>https://bwarren2.github.io/voting_2016/slides-1.0/colored-outliers/</guid>
-      <description> </description>
+      <description>If we glance at the race/education/Trump shift chart, it looks like there is a linear relationship in education except for (roughly) these red points:
+  (Remember that you can rotate 3D plots by clicking and dragging. I just eyeballed this slice, it was not scientific. It should be close enough for the broad-strokes analysis we&amp;rsquo;ll do though.)
+We can filter out all of the gray points and think of them as explained by the education effect.</description>
     </item>
     
     <item>
-      <title>Outlier_map</title>
-      <link>https://bwarren2.github.io/voting_2016/slides-1.0/outlier_map/</link>
+      <title>Ohio</title>
+      <link>https://bwarren2.github.io/voting_2016/slides-1.0/ohio/</link>
       <pubDate>Wed, 13 Feb 2019 01:54:00 -0500</pubDate>
       
-      <guid>https://bwarren2.github.io/voting_2016/slides-1.0/outlier_map/</guid>
-      <description> Where does education not explain Trump overperformance? </description>
-    </item>
-    
-    <item>
-      <title>Race_scatter</title>
-      <link>https://bwarren2.github.io/voting_2016/slides-1.0/race_scatter/</link>
-      <pubDate>Wed, 13 Feb 2019 01:50:00 -0500</pubDate>
-      
-      <guid>https://bwarren2.github.io/voting_2016/slides-1.0/race_scatter/</guid>
-      <description></description>
+      <guid>https://bwarren2.github.io/voting_2016/slides-1.0/ohio/</guid>
+      <description>Let&amp;rsquo;s start with Ohio.
+The outliers of Ohio are mostly concentrated in the east and southeast parts of the state.
+Change in Republican Presidential vote percentage points, 2016-2012   What is notable about that part of the state? That is where the coal seams are, and where coal mining has historically happened.
+An initial guess might be that coal miners had exceptionally negative views of Hillary Clinton, and/or positive views of Donald Trump.</description>
     </item>
     
   </channel>

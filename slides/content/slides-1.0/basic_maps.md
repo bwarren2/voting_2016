@@ -26,15 +26,6 @@ author: "Ben W"
 
 {{<vega_iframe "/rep_shift.html">}}
 
-# What is that blue blotch in Utah?
-
-{{<vega_iframe "/mormons.html">}}
-
-
-# Where did Trump surpass Romney?
-
-![Example image](/overperformance_choropleth.png)
-
 ## Methods
 
 To understand what made 2016 different from 2012, we can just subtract.
@@ -49,4 +40,10 @@ In the map above, we clearly see that Trump underperformed Romney in Utah and pa
 
 ## Next Steps
 
-This leads to the obvious questions: Why these regions?  What was the basis of Trump's appeal?  Let's look at [potential drivers of this shift.]({{< ref "education_vs_race_vs_shift" >}})
+This leads to the obvious questions: Why these regions?  What was the basis of Trump's appeal?
+
+Some local effects immediately jump out.  For example, that big blue blotch in Utah and Idaho (where the R candidate dramatically underperformed in 2016 compared to 2012) is Mormon country.  Romney, a Mormon, enjoyed much higher support than Trump, who struggled for support given his behavior.  Additionally, Ed McMullin (a Mormon) ran as a third party spoiler candidate, achieving his greatest support in his home state of Utah.
+
+{{<vega_iframe "/mormons.html">}}
+
+Let's look at [potential drivers of this shift.]({{< ref "education_vs_race_vs_shift" >}})

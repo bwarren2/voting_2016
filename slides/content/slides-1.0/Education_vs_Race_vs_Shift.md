@@ -9,6 +9,8 @@ author: "Ben"
 
 {{<localplotly "education_vs_shift.html" 600 600>}}
 
+(These charts are interactive.  Mouseover to get values of nearby points, or click the legend to show/hide series.)
+
 We can start to investigate the drivers of 2012->2016 Republican voting shift by examining the characteristics of each county.  Here we see what fraction of a county has a high school degree or less vs the 2016 shift toward Trump.
 
 We can see [on the map]({{< ref "basic_maps" >}}) that the low outliers are Utah and Idaho.  This makes sense; McMullin was a spoiler candidate for Republicans in those states and especially popular among Mormons, who disliked Trump.
@@ -30,7 +32,7 @@ When we remove Idaho and Utah, the relationship becomes a bit clearer, but is st
 ## Methods
 
 
-This is a plotly 3D scatterplot of the two previous variables and the calculated Republican shift.  Putting them on the same plot at the same time makes it possible to easily see how the two variables are interacting.
+This is a plotly 3D scatterplot of the two previous variables and the calculated Republican shift.  Putting them on the same plot at the same time makes it possible to easily see how the two variables are interacting.  Interestingly, color here is per-capita income.  Trump fared poorly in the higher-income counties.
 
 ## Results
 
