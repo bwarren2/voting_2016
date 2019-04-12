@@ -74,6 +74,8 @@ Not only is northeast Ohio the home of steel production, it is the main base of 
 
 {{<localplotly "ohio/OH_votes.html" 600 600>}}
 
+### Ohio Support Change vs Education and Whiteness, with Support Change from <80% White Counties in the US
+
 {{<localplotly "ohio/OH_scatter.html" 600 600>}}
 
 Some things to note:
@@ -83,6 +85,10 @@ Some things to note:
 Three of the four that aren't, Ashtabula, Adams, and Brown, as still in the swath of Ohio riddled with coal power plants.  Paulding is the first county decisively away from that phenomenon.
 
 #### There is a strong HS-education-only relationship with the Trump shift
+
+If you unselect trace1, showing only trace0, you will see a very strong relationship between change in Republican support % and % of county with only a HS degree.  If you reselect trace1, you will see that the rest of the original data also showed an education sensitivity.  The two datasets are showing the same thing (an education relationship) with different degrees of severity.  _Maybe the drumstick plot, which looked like a poorer relationship, is actually a collection of stronger relationships with varying sensitivity to education_.
+
+#### Something is weird about Holmes county
 
 As a fun note: why is Holmes county a huge outlier in this chart?  Honestly, my process involves a fair amount of seeing an outlier and looking at in on Wikipedia.  From the article for that county:
 
