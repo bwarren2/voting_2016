@@ -10,13 +10,13 @@ The outliers of Ohio are mostly concentrated in the east and southeast parts of 
 
 ### Change in Republican Presidential vote percentage points, 2016-2012
 
-{{<localplotly "ohio/OH_shift.html" 600 600>}}
+{{<localplotly "OH/shift_map.html" 600 600>}}
 
 What is notable about that part of the state?  That is where the coal seams are, and where coal mining has historically happened.
 
 ### That outlier area ~= coal country
 
-<img src="/ohio/ohiocoal_map.png" width="600" height="600" />
+<img src="/OH/ohiocoal_map.png" width="600" height="600" />
 
 An initial guess might be that coal miners had exceptionally negative views of Hillary Clinton, and/or positive views of Donald Trump.  Why might that be?
 
@@ -44,7 +44,7 @@ But even if a county doesn't _produce_ coal, it might be invested in coal.  What
 
 In fact, coal plants or retirements afflict much of the area with a big percentage shift toward Trump.
 
-<img src="/ohio/retirements.png" width="600" height="400" />
+<img src="/OH/retirements.png" width="600" height="400" />
 
 (Via [Brookings.](https://www.brookings.edu/blog/the-avenue/2016/12/19/coal-plant-retirements-will-continue-despite-trumps-epa-pick/))
 
@@ -56,27 +56,50 @@ Whether your county's coal plant is retiring or not, a hostility toward coal rep
 
 Note also how Trump is attempting to make good on his promises to help miners.
 
+***
+
+
 ### Heavy industry lives around Cleveland
 
 In addition to digging coal out of the ground and burning it immediately for power, what else might you do with it?  Sell it and ship it elsewhere.  That would probably be easiest if you carted the coal north, to Cleveland and the Great Lakes, which is historically exactly what happened.  And if you have a confluence of shipping and energy, you might build a bunch of manufacturing there, like energy-intensive steel foundries.
 
-<img src="/ohio/iron_and_steel.jpg" width="600" height="400" />
+<img src="/OH/iron_and_steel.jpg" width="600" height="400" />
 
 (Via [EPA.](https://archive.epa.gov/sectors/web/html/map-6.html))
 
 Not only is northeast Ohio the home of steel production, it is the main base of Ohio manufacturing generally.
 
-<img src="/ohio/ohio_manufacturing_map.png" width="600" height="600" />
+<img src="/OH/ohio_manufacturing_map.png" width="600" height="600" />
 
 (Via [the Ohio Manufacturing Association.](http://www.ohiomfg.com/OMA_Manufacturing_Counts_2018-19.pdf))
 
-### Cleveland yielded the most new votes for Trump
+### Cleveland yielded the most new-net-votes for Trump
 
-{{<localplotly "ohio/OH_votes.html" 600 600>}}
+{{<localplotly "OH/net_r_votes_map.html" 600 600>}}
+
+These are net votes, ie (GOP2016 - Dem2016) - (GOP2012 - Dem2012).  But these votes could come from two sources: new Republican voters, or Dems staying home.  For example, if the parties were tied at 100K in 2012 and in 2016 5 dem voters stayed home, the math would be (100K - (100K - 5)) - (100K -100K) = (100K - 100K + 5) - 0 = 5.  If 5 new GOP voters showed up, it would be instead be ((100K + 5) - 100K) - (100K -100K) = 5.  So which is it: new Republican votes or missing Dem votes?
+
+
+### 2016 Rep votes - 2012 Rep votes
+
+{{<localplotly "OH/rep_votes_map.html" 600 600>}}
+
+### 2016 Dem votes - 2012 Dem votes
+
+{{<localplotly "OH/dem_votes_map.html" 600 600>}}
+
+{{<localplotly "OH/r_vote_gain_%25_2012.html" 600 600>}}
+
+{{<localplotly "OH/d_vote_gain_%25_2012.html" 600 600>}}
+
+### Multiyear Context
+
+{{<localplotly "OH/grouping.html" 600 600>}}
+
 
 ### Ohio Support Change vs Education and Whiteness, with Support Change from <80% White Counties in the US
 
-{{<localplotly "ohio/OH_scatter.html" 600 600>}}
+{{<localplotly "OH/OH_scatter.html" 600 600>}}
 
 Some things to note:
 
@@ -96,6 +119,10 @@ As a fun note: why is Holmes county a huge outlier in this chart?  Honestly, my 
 
 
 (Via [Wikipedia](https://en.wikipedia.org/wiki/Holmes_County,_Ohio#Amish_community))
+
+***
+
+### Dem turnout fell apart
 
 ### Coda: the end of Clinton's statement
 

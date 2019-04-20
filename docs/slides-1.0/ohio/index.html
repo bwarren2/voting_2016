@@ -59,7 +59,7 @@
 <h3 id="change-in-republican-presidential-vote-percentage-points-2016-2012">Change in Republican Presidential vote percentage points, 2016-2012</h3>
 
 <div class='centered-plotly' style='width:600px; height:600px; margin:0 auto;'>
-    <iframe src="https://bwarren2.github.io/voting_2016/ohio/OH_shift.html" frameborder="0" style='width:600px; height:600px'></iframe>
+    <iframe src="https://bwarren2.github.io/voting_2016/OH/shift_map.html" frameborder="0" style='width:600px; height:600px'></iframe>
 </div>
 
 
@@ -67,7 +67,7 @@
 
 <h3 id="that-outlier-area-coal-country">That outlier area ~= coal country</h3>
 
-<p><img src="https://bwarren2.github.io/voting_2016/ohio/ohiocoal_map.png" width="600" height="600" /></p>
+<p><img src="https://bwarren2.github.io/voting_2016/OH/ohiocoal_map.png" width="600" height="600" /></p>
 
 <p>An initial guess might be that coal miners had exceptionally negative views of Hillary Clinton, and/or positive views of Donald Trump.  Why might that be?</p>
 
@@ -97,7 +97,7 @@
 
 <p>In fact, coal plants or retirements afflict much of the area with a big percentage shift toward Trump.</p>
 
-<p><img src="https://bwarren2.github.io/voting_2016/ohio/retirements.png" width="600" height="400" /></p>
+<p><img src="https://bwarren2.github.io/voting_2016/OH/retirements.png" width="600" height="400" /></p>
 
 <p>(Via <a href="https://www.brookings.edu/blog/the-avenue/2016/12/19/coal-plant-retirements-will-continue-despite-trumps-epa-pick/">Brookings.</a>)</p>
 
@@ -111,31 +111,66 @@
 
 <p>Note also how Trump is attempting to make good on his promises to help miners.</p>
 
+<hr />
+
 <h3 id="heavy-industry-lives-around-cleveland">Heavy industry lives around Cleveland</h3>
 
 <p>In addition to digging coal out of the ground and burning it immediately for power, what else might you do with it?  Sell it and ship it elsewhere.  That would probably be easiest if you carted the coal north, to Cleveland and the Great Lakes, which is historically exactly what happened.  And if you have a confluence of shipping and energy, you might build a bunch of manufacturing there, like energy-intensive steel foundries.</p>
 
-<p><img src="https://bwarren2.github.io/voting_2016/ohio/iron_and_steel.jpg" width="600" height="400" /></p>
+<p><img src="https://bwarren2.github.io/voting_2016/OH/iron_and_steel.jpg" width="600" height="400" /></p>
 
 <p>(Via <a href="https://archive.epa.gov/sectors/web/html/map-6.html">EPA.</a>)</p>
 
 <p>Not only is northeast Ohio the home of steel production, it is the main base of Ohio manufacturing generally.</p>
 
-<p><img src="https://bwarren2.github.io/voting_2016/ohio/ohio_manufacturing_map.png" width="600" height="600" /></p>
+<p><img src="https://bwarren2.github.io/voting_2016/OH/ohio_manufacturing_map.png" width="600" height="600" /></p>
 
 <p>(Via <a href="http://www.ohiomfg.com/OMA_Manufacturing_Counts_2018-19.pdf">the Ohio Manufacturing Association.</a>)</p>
 
-<h3 id="cleveland-yielded-the-most-new-votes-for-trump">Cleveland yielded the most new votes for Trump</h3>
+<h3 id="cleveland-yielded-the-most-new-net-votes-for-trump">Cleveland yielded the most new-net-votes for Trump</h3>
 
 <div class='centered-plotly' style='width:600px; height:600px; margin:0 auto;'>
-    <iframe src="https://bwarren2.github.io/voting_2016/ohio/OH_votes.html" frameborder="0" style='width:600px; height:600px'></iframe>
+    <iframe src="https://bwarren2.github.io/voting_2016/OH/net_r_votes_map.html" frameborder="0" style='width:600px; height:600px'></iframe>
+</div>
+
+
+<p>These are net votes, ie (GOP2016 - Dem2016) - (GOP2012 - Dem2012).  But these votes could come from two sources: new Republican voters, or Dems staying home.  For example, if the parties were tied at 100K in 2012 and in 2016 5 dem voters stayed home, the math would be (100K - (100K - 5)) - (100K -100K) = (100K - 100K + 5) - 0 = 5.  If 5 new GOP voters showed up, it would be instead be ((100K + 5) - 100K) - (100K -100K) = 5.  So which is it: new Republican votes or missing Dem votes?</p>
+
+<h3 id="2016-rep-votes-2012-rep-votes">2016 Rep votes - 2012 Rep votes</h3>
+
+<div class='centered-plotly' style='width:600px; height:600px; margin:0 auto;'>
+    <iframe src="https://bwarren2.github.io/voting_2016/OH/rep_votes_map.html" frameborder="0" style='width:600px; height:600px'></iframe>
+</div>
+
+
+<h3 id="2016-dem-votes-2012-dem-votes">2016 Dem votes - 2012 Dem votes</h3>
+
+<div class='centered-plotly' style='width:600px; height:600px; margin:0 auto;'>
+    <iframe src="https://bwarren2.github.io/voting_2016/OH/dem_votes_map.html" frameborder="0" style='width:600px; height:600px'></iframe>
+</div>
+
+
+<div class='centered-plotly' style='width:600px; height:600px; margin:0 auto;'>
+    <iframe src="https://bwarren2.github.io/voting_2016/OH/r_vote_gain_%25_2012.html" frameborder="0" style='width:600px; height:600px'></iframe>
+</div>
+
+
+<div class='centered-plotly' style='width:600px; height:600px; margin:0 auto;'>
+    <iframe src="https://bwarren2.github.io/voting_2016/OH/d_vote_gain_%25_2012.html" frameborder="0" style='width:600px; height:600px'></iframe>
+</div>
+
+
+<h3 id="multiyear-context">Multiyear Context</h3>
+
+<div class='centered-plotly' style='width:600px; height:600px; margin:0 auto;'>
+    <iframe src="https://bwarren2.github.io/voting_2016/OH/grouping.html" frameborder="0" style='width:600px; height:600px'></iframe>
 </div>
 
 
 <h3 id="ohio-support-change-vs-education-and-whiteness-with-support-change-from-80-white-counties-in-the-us">Ohio Support Change vs Education and Whiteness, with Support Change from &lt;80% White Counties in the US</h3>
 
 <div class='centered-plotly' style='width:600px; height:600px; margin:0 auto;'>
-    <iframe src="https://bwarren2.github.io/voting_2016/ohio/OH_scatter.html" frameborder="0" style='width:600px; height:600px'></iframe>
+    <iframe src="https://bwarren2.github.io/voting_2016/OH/OH_scatter.html" frameborder="0" style='width:600px; height:600px'></iframe>
 </div>
 
 
@@ -158,6 +193,10 @@
 </blockquote>
 
 <p>(Via <a href="https://en.wikipedia.org/wiki/Holmes_County,_Ohio#Amish_community">Wikipedia</a>)</p>
+
+<hr />
+
+<h3 id="dem-turnout-fell-apart">Dem turnout fell apart</h3>
 
 <h3 id="coda-the-end-of-clinton-s-statement">Coda: the end of Clinton&rsquo;s statement</h3>
 
@@ -196,7 +235,7 @@
 
         		<footer>
 			<span>
-			&copy; <time datetime="2019-04-11 23:41:07.073664 -0400 EDT m=&#43;0.050404360">2019</time> Ben. Made with <a href='https://gohugo.io'>Hugo</a> using the <a href='https://github.com/EmielH/tale-hugo/'>Tale</a> theme.
+			&copy; <time datetime="2019-04-20 17:02:08.169297 -0400 EDT m=&#43;0.055565512">2019</time> Ben. Made with <a href='https://gohugo.io'>Hugo</a> using the <a href='https://github.com/EmielH/tale-hugo/'>Tale</a> theme.
 			</span>
 		</footer>
 
