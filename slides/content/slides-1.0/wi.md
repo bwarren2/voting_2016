@@ -1,7 +1,7 @@
 ---
-title: "Wi"
-date: 2019-04-20T14:05:03-04:00
-draft: true
+title: "Wisconsin"
+date: 2019-02-11T14:05:03-04:00
+draft: False
 ---
 
 
@@ -32,6 +32,7 @@ draft: true
 {{<localplotly "PA/top_d_vote_gain_county_bars.html" 800 600>}}
 {{<localplotly "PA/top_r_vote_gain_county_bars.html" 800 600>}}
 {{<localplotly "PA/turnout_bars.html" 600 600>}}
+{{<localplotly "WI/distributions.html" 600 600>}}
 <img src="/PA/net_gop_votes_waterfall.png" width="600" height="600" />
 <img src="/PA/r_votes_waterfall.png" width="600" height="600" />
 <img src="/PA/d_votes_waterfall.png" width="600" height="600" />

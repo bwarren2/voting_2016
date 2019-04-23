@@ -1,6 +1,6 @@
 ---
 title: "Minnesota"
-date: 2019-04-20T14:05:21-04:00
+date: 2019-02-10T14:05:21-04:00
 draft: false
 ---
 
@@ -32,6 +32,7 @@ draft: false
 {{<localplotly "MN/top_d_vote_gain_county_bars.html" 800 600>}}
 {{<localplotly "MN/top_r_vote_gain_county_bars.html" 800 600>}}
 {{<localplotly "MN/turnout_bars.html" 600 600>}}
+{{<localplotly "MN/distributions.html" 600 600>}}
 <img src="/MN/net_gop_votes_waterfall.png" width="600" height="600" />
 <img src="/MN/r_votes_waterfall.png" width="600" height="600" />
 <img src="/MN/d_votes_waterfall.png" width="600" height="600" />

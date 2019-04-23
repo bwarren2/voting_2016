@@ -1,6 +1,6 @@
 ---
 title: "Pennsylvania"
-date: 2019-04-20T14:05:13-04:00
+date: 2019-02-07T14:05:13-04:00
 draft: false
 ---
 
@@ -23,7 +23,7 @@ draft: false
 {{<localplotly "PA/net_r_votes_map.html" 825 425>}}
 {{<localplotly "PA/pop_change_ed_shift.html" 600 600>}}
 {{<localplotly "PA/pop_change_map.html" 825 425>}}
-{{<localplotly "PA/population.html" 600 600>}}
+{{<localplotly "PA/population.html" 825 600>}}
 {{<localplotly "PA/r_vote_gain_%_2012.html" 825 425>}}
 {{<localplotly "PA/r_vote_gain_%_pop.html" 825 425>}}
 {{<localplotly "PA/rep_votes_map.html" 825 425>}}
@@ -32,6 +32,7 @@ draft: false
 {{<localplotly "PA/top_d_vote_gain_county_bars.html" 800 600>}}
 {{<localplotly "PA/top_r_vote_gain_county_bars.html" 800 600>}}
 {{<localplotly "PA/turnout_bars.html" 600 600>}}
+{{<localplotly "PA/distributions.html" 600 600>}}
 <img src="/PA/net_gop_votes_waterfall.png" width="600" height="600" />
 <img src="/PA/r_votes_waterfall.png" width="600" height="600" />
 <img src="/PA/d_votes_waterfall.png" width="600" height="600" />

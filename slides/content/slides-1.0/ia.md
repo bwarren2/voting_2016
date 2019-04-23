@@ -1,6 +1,6 @@
 ---
 title: "Iowa"
-date: 2019-04-20T14:05:09-04:00
+date: 2019-02-09T14:05:09-04:00
 draft: false
 ---
 
@@ -32,6 +32,7 @@ draft: false
 {{<localplotly "IA/top_d_vote_gain_county_bars.html" 800 600>}}
 {{<localplotly "IA/top_r_vote_gain_county_bars.html" 800 600>}}
 {{<localplotly "IA/turnout_bars.html" 600 600>}}
+{{<localplotly "IA/distributions.html" 600 600>}}
 <img src="/IA/net_gop_votes_waterfall.png" width="600" height="600" />
 <img src="/IA/r_votes_waterfall.png" width="600" height="600" />
 <img src="/IA/d_votes_waterfall.png" width="600" height="600" />

@@ -1,6 +1,6 @@
 ---
 title: "Florida"
-date: 2019-04-15T20:43:28-04:00
+date: 2019-02-07T20:43:28-04:00
 draft: false
 ---
 
@@ -31,6 +31,7 @@ draft: false
 {{<localplotly "FL/top_d_vote_gain_county_bars.html" 800 600>}}
 {{<localplotly "FL/top_r_vote_gain_county_bars.html" 800 600>}}
 {{<localplotly "FL/turnout_bars.html" 600 600>}}
+{{<localplotly "FL/distributions.html" 600 600>}}
 <img src="/FL/net_gop_votes_waterfall.png" width="600" height="600" />
 <img src="/FL/r_votes_waterfall.png" width="600" height="600" />
 <img src="/FL/d_votes_waterfall.png" width="600" height="600" />
