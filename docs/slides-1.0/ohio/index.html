@@ -136,29 +136,41 @@
 
 <p>These are net votes, ie (GOP2016 - Dem2016) - (GOP2012 - Dem2012).  But these votes could come from two sources: new Republican voters, or Dems staying home.  For example, if the parties were tied at 100K in 2012 and in 2016 5 dem voters stayed home, the math would be (100K - (100K - 5)) - (100K -100K) = (100K - 100K + 5) - 0 = 5.  If 5 new GOP voters showed up, it would be instead be ((100K + 5) - 100K) - (100K -100K) = 5.  So which is it: new Republican votes or missing Dem votes?</p>
 
-<h3 id="2016-rep-votes-2012-rep-votes">2016 Rep votes - 2012 Rep votes</h3>
+<h3 id="2016-gop-votes-2012-gop-votes">2016 GOP votes - 2012 GOP votes</h3>
 
-<div class='centered-plotly' style='width:600px; height:600px; margin:0 auto;'>
-    <iframe src="https://bwarren2.github.io/voting_2016/OH/rep_votes_map.html" frameborder="0" style='width:600px; height:600px'></iframe>
+<div class='centered-plotly' style='width:720px; height:420px; margin:0 auto;'>
+    <iframe src="https://bwarren2.github.io/voting_2016/OH/rep_votes_map.html" frameborder="0" style='width:720px; height:420px'></iframe>
 </div>
 
+
+<p>Republicans had one county in he Cleveland area where they earned 11K votes, and 5 in the 5Kish vote range.</p>
 
 <h3 id="2016-dem-votes-2012-dem-votes">2016 Dem votes - 2012 Dem votes</h3>
 
-<div class='centered-plotly' style='width:600px; height:600px; margin:0 auto;'>
-    <iframe src="https://bwarren2.github.io/voting_2016/OH/dem_votes_map.html" frameborder="0" style='width:600px; height:600px'></iframe>
+<div class='centered-plotly' style='width:720px; height:420px; margin:0 auto;'>
+    <iframe src="https://bwarren2.github.io/voting_2016/OH/dem_votes_map.html" frameborder="0" style='width:720px; height:420px'></iframe>
 </div>
 
 
-<div class='centered-plotly' style='width:600px; height:600px; margin:0 auto;'>
-    <iframe src="https://bwarren2.github.io/voting_2016/OH/r_vote_gain_%25_2012.html" frameborder="0" style='width:600px; height:600px'></iframe>
+<p>Democrats had <em>7</em> counties in the area where they lost huge numbers of votes.  All of those counties are bigger losses than the biggest county was a gain for Republicans (except one that is about 1,000 votes shy), and the biggest vote loss is Cuyahoga at ~37K votes.  That is close to the <em>total</em> vote gain for those Republican counties <em>combined</em>.</p>
+
+<h3 id="gop-turnout-change-2016-gop-votes-2012-gop-votes">GOP Turnout change, 2016 GOP votes / 2012 GOP votes</h3>
+
+<div class='centered-plotly' style='width:720px; height:420px; margin:0 auto;'>
+    <iframe src="https://bwarren2.github.io/voting_2016/OH/r_vote_gain_%25_2012.html" frameborder="0" style='width:720px; height:420px'></iframe>
 </div>
 
 
-<div class='centered-plotly' style='width:600px; height:600px; margin:0 auto;'>
-    <iframe src="https://bwarren2.github.io/voting_2016/OH/d_vote_gain_%25_2012.html" frameborder="0" style='width:600px; height:600px'></iframe>
+<p>Republicans saw a consistent, large voter turnout increase throughout eastern Ohio, with many counties in excess of a 25% increase.  Basically, in many counties, every 4 2012 GOP voters found a new friend who did not vote R in 2012 and got them to vote Trump.  In Gallia county, (the county with the two large coal plants as their biggest employers,) the GOP vote increased <em>66%</em>.  Every 3 2012 R voters found <em>2</em> people to vote Trump.</p>
+
+<h3 id="dem-turnout-change-2016-dem-votes-2012-dem-votes">Dem Turnout change, 2016 Dem votes / 2012 Dem votes</h3>
+
+<div class='centered-plotly' style='width:720px; height:420px; margin:0 auto;'>
+    <iframe src="https://bwarren2.github.io/voting_2016/OH/d_vote_gain_%25_2012.html" frameborder="0" style='width:720px; height:420px'></iframe>
 </div>
 
+
+<p>Democrats, by contrast, saw turnout shrink by at least a quarter in huge swaths of the state, especially in the coal belt where R turnout was so much higher.  We don&rsquo;t know individual votes to say if Dem voters switched or if many Dems stayed home and Republicans found previous non-voters to vote for Trump, but circumstantial evidence implies some vote-switching may have happened.  These are counties that had voted significantly for Obama, but swung hard for Trump.</p>
 
 <h3 id="multiyear-context">Multiyear Context</h3>
 
@@ -167,12 +179,16 @@
 </div>
 
 
+<p>In the aggregate, Republican voting was slightly up, but Democratic voting cratered in 2016 compared to 2012.  If Trump had at all approximated Romney, he would have won the state because Democrat votes disappeared.  Circumstantially, it is plausible that Trump flipped Obama voters in coal country.  Overall, Clinton lost the state more than Trump won it because of her diminished vote counts in the Cleveland region (which dwarfed GOP gains there).</p>
+
 <h3 id="ohio-support-change-vs-education-and-whiteness-with-support-change-from-80-white-counties-in-the-us">Ohio Support Change vs Education and Whiteness, with Support Change from &lt;80% White Counties in the US</h3>
 
 <div class='centered-plotly' style='width:600px; height:600px; margin:0 auto;'>
-    <iframe src="https://bwarren2.github.io/voting_2016/OH/OH_scatter.html" frameborder="0" style='width:600px; height:600px'></iframe>
+    <iframe src="https://bwarren2.github.io/voting_2016/OH/compare_scatter.html" frameborder="0" style='width:600px; height:600px'></iframe>
 </div>
 
+
+<p>Toggle these series ^ to see the datasets independently.</p>
 
 <p>Some things to note:</p>
 
@@ -236,7 +252,7 @@
 
         		<footer>
 			<span>
-			&copy; <time datetime="2019-04-23 16:48:51.576785 -0400 EDT m=&#43;0.133871501">2019</time> Ben. Made with <a href='https://gohugo.io'>Hugo</a> using the <a href='https://github.com/EmielH/tale-hugo/'>Tale</a> theme.
+			&copy; <time datetime="2019-04-28 14:44:14.532208 -0400 EDT m=&#43;0.056721651">2019</time> Ben. Made with <a href='https://gohugo.io'>Hugo</a> using the <a href='https://github.com/EmielH/tale-hugo/'>Tale</a> theme.
 			</span>
 		</footer>
 

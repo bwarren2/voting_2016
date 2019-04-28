@@ -80,26 +80,41 @@ Not only is northeast Ohio the home of steel production, it is the main base of 
 These are net votes, ie (GOP2016 - Dem2016) - (GOP2012 - Dem2012).  But these votes could come from two sources: new Republican voters, or Dems staying home.  For example, if the parties were tied at 100K in 2012 and in 2016 5 dem voters stayed home, the math would be (100K - (100K - 5)) - (100K -100K) = (100K - 100K + 5) - 0 = 5.  If 5 new GOP voters showed up, it would be instead be ((100K + 5) - 100K) - (100K -100K) = 5.  So which is it: new Republican votes or missing Dem votes?
 
 
-### 2016 Rep votes - 2012 Rep votes
+### 2016 GOP votes - 2012 GOP votes
 
-{{<localplotly "OH/rep_votes_map.html" 600 600>}}
+{{<localplotly "OH/rep_votes_map.html" 720 420>}}
+
+Republicans had one county in he Cleveland area where they earned 11K votes, and 5 in the 5Kish vote range.
 
 ### 2016 Dem votes - 2012 Dem votes
 
-{{<localplotly "OH/dem_votes_map.html" 600 600>}}
+{{<localplotly "OH/dem_votes_map.html" 720 420>}}
 
-{{<localplotly "OH/r_vote_gain_%25_2012.html" 600 600>}}
+Democrats had *7* counties in the area where they lost huge numbers of votes.  All of those counties are bigger losses than the biggest county was a gain for Republicans (except one that is about 1,000 votes shy), and the biggest vote loss is Cuyahoga at ~37K votes.  That is close to the _total_ vote gain for those Republican counties _combined_.
 
-{{<localplotly "OH/d_vote_gain_%25_2012.html" 600 600>}}
+### GOP Turnout change, 2016 GOP votes / 2012 GOP votes
+
+{{<localplotly "OH/r_vote_gain_%25_2012.html" 720 420>}}
+
+Republicans saw a consistent, large voter turnout increase throughout eastern Ohio, with many counties in excess of a 25% increase.  Basically, in many counties, every 4 2012 GOP voters found a new friend who did not vote R in 2012 and got them to vote Trump.  In Gallia county, (the county with the two large coal plants as their biggest employers,) the GOP vote increased *66%*.  Every 3 2012 R voters found _2_ people to vote Trump.
+
+### Dem Turnout change, 2016 Dem votes / 2012 Dem votes
+
+{{<localplotly "OH/d_vote_gain_%25_2012.html" 720 420>}}
+
+Democrats, by contrast, saw turnout shrink by at least a quarter in huge swaths of the state, especially in the coal belt where R turnout was so much higher.  We don't know individual votes to say if Dem voters switched or if many Dems stayed home and Republicans found previous non-voters to vote for Trump, but circumstantial evidence implies some vote-switching may have happened.  These are counties that had voted significantly for Obama, but swung hard for Trump.
 
 ### Multiyear Context
 
 {{<localplotly "OH/grouping.html" 600 600>}}
 
+In the aggregate, Republican voting was slightly up, but Democratic voting cratered in 2016 compared to 2012.  If Trump had at all approximated Romney, he would have won the state because Democrat votes disappeared.  Circumstantially, it is plausible that Trump flipped Obama voters in coal country.  Overall, Clinton lost the state more than Trump won it because of her diminished vote counts in the Cleveland region (which dwarfed GOP gains there).
 
 ### Ohio Support Change vs Education and Whiteness, with Support Change from <80% White Counties in the US
 
-{{<localplotly "OH/OH_scatter.html" 600 600>}}
+{{<localplotly "OH/compare_scatter.html" 600 600>}}
+
+Toggle these series ^ to see the datasets independently.
 
 Some things to note:
 
