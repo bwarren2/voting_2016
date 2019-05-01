@@ -150,3 +150,9 @@ The next 25 seconds of Clinton's statement read very differently than the first 
 > And we are going to make it clear that we don't want to forget those people.  Those people labored in those mines for generations, losing their health, often losing their lives to turn on our lights and power our factories.  Now we've got to move away from coal and all the other fossil fuels but I don't want to move away from the people who did the best they could to produce the energy that we relied on. - Hillary Clinton
 
 For a broader take on Hillary's media problems, consider [this](https://www.vox.com/energy-and-environment/2017/9/15/16306158/hillary-clinton-hall-of-mirrors).  I won't claim it is definitive, but it is interesting.
+
+<!-- https://www.bls.gov/eag/eag.oh.htm -->
+<!-- https://www.brookings.edu/blog/the-avenue/2017/01/25/automation-guarantees-a-bleak-outlook-for-trumps-promises-to-coal-miners/ -->
+
+<!-- https://fred.stlouisfed.org/series/MANEMP -->
+<!-- https://www.google.com/imgres?imgurl=https%3A%2F%2Ffred.stlouisfed.org%2Fgraph%2Ffredgraph.png%3Fwidth%3D880%26height%3D440%26id%3DOHMFGN&imgrefurl=https%3A%2F%2Ffred.stlouisfed.org%2Fseries%2FOHMFGN&docid=IIILQo0Z5stBEM&tbnid=r3ST6gTOatRThM%3A&vet=10ahUKEwiYy9zhr_nhAhVPheAKHQZ2CvkQMwhDKAMwAw..i&w=880&h=460&bih=725&biw=1440&q=fred%20ohio%20manufacturing%20jobs%201980&ved=0ahUKEwiYy9zhr_nhAhVPheAKHQZ2CvkQMwhDKAMwAw&iact=mrc&uact=8 -->
