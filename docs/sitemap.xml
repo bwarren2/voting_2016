@@ -53,11 +53,6 @@
   </url>
   
   <url>
-    <loc>https://bwarren2.github.io/voting_2016/slides-1.0/florida/</loc>
-    <lastmod>2019-02-07T20:43:28-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bwarren2.github.io/voting_2016/slides-1.0/pa/</loc>
     <lastmod>2019-02-07T14:05:13-04:00</lastmod>
   </url>
@@ -65,6 +60,10 @@
   <url>
     <loc>https://bwarren2.github.io/voting_2016/categories/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bwarren2.github.io/voting_2016/slides-1.0/florida/</loc>
   </url>
   
   <url>

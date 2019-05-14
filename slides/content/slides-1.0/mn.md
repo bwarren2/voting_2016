@@ -4,7 +4,9 @@ date: 2019-02-10T14:05:21-04:00
 draft: false
 ---
 
+Mining is a big deal in duluth: https://www.minnpost.com/economy/2018/10/mining-is-a-small-part-of-minnesotas-economy-so-why-is-it-such-a-big-political-issue/
 
+Iron Range near Duluth: https://en.m.wikipedia.org/wiki/Iron_Range
 
 {{<localplotly "MN/%_dem_change_from_2012.html" 600 600>}}
 {{<localplotly "MN/%_dem_change_vs_%_rep_change_vs_shift.html" 600 600>}}
