@@ -1,20 +1,12 @@
 ---
 title: "Iowa"
 date: 2019-02-09T14:05:09-04:00
-draft: false
+draft: true
 ---
-
-
 
 {{<localplotly "IA/%_dem_change_from_2012.html" 600 600>}}
 {{<localplotly "IA/%_dem_change_vs_%_rep_change_vs_shift.html" 600 600>}}
-{{<localplotly "IA/%_over_45.html" 600 600>}}
-{{<localplotly "IA/%_over_65.html" 600 600>}}
-{{<localplotly "IA/%_prot_evan.html" 600 600>}}
-{{<localplotly "IA/%_religious.html" 600 600>}}
 {{<localplotly "IA/%_rep_change_from_2012.html" 600 600>}}
-{{<localplotly "IA/%_unemployment_rate.html" 600 600>}}
-{{<localplotly "IA/%_vets.html" 600 600>}}
 {{<localplotly "IA/compare_scatter.html" 600 600>}}
 {{<localplotly "IA/d_vote_gain_%_2012.html" 825 425>}}
 {{<localplotly "IA/d_vote_gain_%_pop.html" 825 425>}}
@@ -33,6 +25,7 @@ draft: false
 {{<localplotly "IA/top_r_vote_gain_county_bars.html" 800 600>}}
 {{<localplotly "IA/turnout_bars.html" 600 600>}}
 {{<localplotly "IA/distributions.html" 600 600>}}
+{{<localplotly "IA/bernie.html" 600 600>}}
 <img src="/IA/net_gop_votes_waterfall.png" width="600" height="600" />
 <img src="/IA/r_votes_waterfall.png" width="600" height="600" />
 <img src="/IA/d_votes_waterfall.png" width="600" height="600" />

@@ -4,6 +4,8 @@ title = "Understanding the 2016 Presidential Election"
 theme = "tale-hugo"
 canonifyurls = true
 author = "Ben"
+googleAnalytics = "UA-124735498-2"
+
 [Author]
     name = "Ben"
 [Params]

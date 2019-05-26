@@ -86,52 +86,5 @@ That outlier area ~= coal country An initial guess might be that coal miners had
 Education vs Shift, OH + WI   There is a very strong relationship between non-college rate and Republican shift by county, in Wisconsin as in Ohio. Taken together, these two series have an r-squared of 0.65 and a p value of 6.</description>
     </item>
     
-    <item>
-      <title>Minnesota</title>
-      <link>https://bwarren2.github.io/voting_2016/slides-1.0/mn/</link>
-      <pubDate>Sun, 10 Feb 2019 14:05:21 -0400</pubDate>
-      
-      <guid>https://bwarren2.github.io/voting_2016/slides-1.0/mn/</guid>
-      <description>Mining is a big deal in duluth: https://www.minnpost.com/economy/2018/10/mining-is-a-small-part-of-minnesotas-economy-so-why-is-it-such-a-big-political-issue/
-Iron Range near Duluth: https://en.m.wikipedia.org/wiki/Iron_Range
-                                                      </description>
-    </item>
-    
-    <item>
-      <title>Iowa</title>
-      <link>https://bwarren2.github.io/voting_2016/slides-1.0/ia/</link>
-      <pubDate>Sat, 09 Feb 2019 14:05:09 -0400</pubDate>
-      
-      <guid>https://bwarren2.github.io/voting_2016/slides-1.0/ia/</guid>
-      <description>                                                      </description>
-    </item>
-    
-    <item>
-      <title>Michigan</title>
-      <link>https://bwarren2.github.io/voting_2016/slides-1.0/mi/</link>
-      <pubDate>Fri, 08 Feb 2019 14:05:07 -0400</pubDate>
-      
-      <guid>https://bwarren2.github.io/voting_2016/slides-1.0/mi/</guid>
-      <description>                                                      </description>
-    </item>
-    
-    <item>
-      <title>Pennsylvania</title>
-      <link>https://bwarren2.github.io/voting_2016/slides-1.0/pa/</link>
-      <pubDate>Thu, 07 Feb 2019 14:05:13 -0400</pubDate>
-      
-      <guid>https://bwarren2.github.io/voting_2016/slides-1.0/pa/</guid>
-      <description>                                                      </description>
-    </item>
-    
-    <item>
-      <title>Florida</title>
-      <link>https://bwarren2.github.io/voting_2016/slides-1.0/florida/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bwarren2.github.io/voting_2016/slides-1.0/florida/</guid>
-      <description>                                                      </description>
-    </item>
-    
   </channel>
 </rss>

@@ -1,7 +1,7 @@
 ---
 title: "Minnesota"
 date: 2019-02-10T14:05:21-04:00
-draft: false
+draft: true
 ---
 
 Mining is a big deal in duluth: https://www.minnpost.com/economy/2018/10/mining-is-a-small-part-of-minnesotas-economy-so-why-is-it-such-a-big-political-issue/
