@@ -8,23 +8,24 @@ author: "Ben W"
 
 # Where did Democrats have a large percentage of the vote?
 
-{{<vega_iframe "/dem_2016.html">}}
+![Percent Dem 2016](/maps/percent_dem_2016.png)
+
 
 # Where did Republicans have a large percentage of the vote?
 
-{{<vega_iframe "/rep_2016.html">}}
+![Percent Rep 2016](/maps/percent_republican_2016.png)
 
 # Where and how did the Democratic turnout change?
 
-{{<vega_iframe "/dem_gain.html">}}
+![Dem Change](/maps/dem_vote_change.png)
 
 # Where and how did the Republican turnout change?
 
-{{<vega_iframe "/rep_gain.html">}}
+![Rep Change](/maps/r_vote_change.png)
 
 # Where was the net Republican shift?
 
-{{<vega_iframe "/rep_shift.html">}}
+![R Shift](/maps/republican_shift.png)
 
 ## Methods
 
@@ -44,6 +45,7 @@ This leads to the obvious questions: Why these regions?  What was the basis of T
 
 Some local effects immediately jump out.  For example, that big blue blotch in Utah and Idaho (where the R candidate dramatically underperformed in 2016 compared to 2012) is Mormon country.  Romney, a Mormon, enjoyed much higher support than Trump, who struggled for support given his behavior.  Additionally, Ed McMullin (a Mormon) ran as a third party spoiler candidate, achieving his greatest support in his home state of Utah.
 
-{{<vega_iframe "/mormons.html">}}
-
 Let's look at [potential drivers of this shift.]({{< ref "education_vs_race_vs_shift" >}})
+
+![Mormons](/maps/mormons.png)
+

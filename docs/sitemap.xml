@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://bwarren2.github.io/voting_2016/</loc>
+    <lastmod>2019-02-13T01:58:58-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bwarren2.github.io/voting_2016/slides-1.0/income/</loc>
     <lastmod>2019-02-13T01:58:58-05:00</lastmod>
   </url>
@@ -50,12 +55,6 @@
   
   <url>
     <loc>https://bwarren2.github.io/voting_2016/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://bwarren2.github.io/voting_2016/</loc>
-    <lastmod>2019-02-13T01:59:00-05:00</lastmod>
     <priority>0</priority>
   </url>
   

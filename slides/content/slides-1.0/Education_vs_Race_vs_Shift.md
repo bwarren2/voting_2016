@@ -52,4 +52,5 @@ Especially in the 93%+ white area, there are many points above the plane formed 
 
 ## Next Steps
 
-So where are the places in that anomalous area?
+
+[So where are the places in that anomalous area?]({{< ref "colored-outliers" >}})

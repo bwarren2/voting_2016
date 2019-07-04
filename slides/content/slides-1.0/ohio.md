@@ -4,13 +4,13 @@ date: 2019-02-12T01:54:00-05:00
 draft: false
 ---
 
-Let's start with Ohio.
-
 The outliers of Ohio are mostly concentrated in the east and southeast parts of the state.
 
 ### Change in Republican Presidential vote percentage points, 2016-2012
 
-{{<localplotly "OH/shift_map.html" 600 600>}}
+{{<localplotly "OH/shift_map.html" 920 500>}}
+
+(You can mouseover counties to get more information.)
 
 What is notable about that part of the state?  That is where the coal seams are, and where coal mining has historically happened.
 
@@ -137,7 +137,9 @@ As a fun note: why is Holmes county a huge outlier in this chart?  Honestly, my 
 
 ***
 
-### Dem turnout fell apart
+## [Let's look at another major state from our outlier map: Wisconsin.]({{< ref "wi" >}})
+
+***
 
 ### Coda: the end of Clinton's statement
 

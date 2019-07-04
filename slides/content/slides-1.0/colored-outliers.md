@@ -29,7 +29,13 @@ Some things to note:
 
 Recall from our basic analysis, the figure below is how things changed across all counties.
 
-{{<vega_iframe "/rep_shift.html">}}
+![R Shift](/maps/republican_shift.png)
 
 We are looking at many fewer counties in this new "outlier" group.  We already have a likely candidate (HS-educated people) to explain the change elsewhere, in all the places present in the chart below not present in the chart above.  Progress!
+
+
+## Next Steps
+
+But which voters drove change in those areas?  It can vary state-by-state, so let's dig in.  We'll compare county voting changes to attributes of those counties, and build a narrative around the overall dynamic there.  [Let's start with Ohio.]({{< ref "ohio" >}})
+
 
