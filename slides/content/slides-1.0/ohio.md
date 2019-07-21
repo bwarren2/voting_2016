@@ -84,7 +84,7 @@ These are net votes, ie (GOP2016 - Dem2016) - (GOP2012 - Dem2012).  But these vo
 
 {{<localplotly "OH/rep_votes_map.html" 720 420>}}
 
-Republicans had one county in he Cleveland area where they earned 11K votes, and 5 in the 5Kish vote range.
+Republicans had one county in the Cleveland area where they earned 11K votes, and 5 in the 5Kish vote range.
 
 ### 2016 Dem votes - 2012 Dem votes
 
@@ -96,7 +96,7 @@ Democrats had *7* counties in the area where they lost huge numbers of votes.  A
 
 {{<localplotly "OH/r_vote_gain_%25_2012.html" 720 420>}}
 
-Republicans saw a consistent, large voter turnout increase throughout eastern Ohio, with many counties in excess of a 25% increase.  Basically, in many counties, every 4 2012 GOP voters found a new friend who did not vote R in 2012 and got them to vote Trump.  In Gallia county, (the county with the two large coal plants as their biggest employers,) the GOP vote increased *66%*.  Every 3 2012 R voters found _2_ people to vote Trump.
+Republicans saw a consistent, large voter turnout increase throughout eastern Ohio, with many counties in excess of a 25% increase.  Mathematically, it's like 2012 GOP voters made groups of four people, and each group got someone who did not vote R in 2012 to vote Trump.  In Gallia county, (the county with the two large coal plants as their biggest employers,) the GOP vote increased *66%*.  R voters made groups of three and each group found _2_ people to vote Trump.  This is an effect.
 
 ### Dem Turnout change, 2016 Dem votes / 2012 Dem votes
 
@@ -108,13 +108,13 @@ Democrats, by contrast, saw turnout shrink by at least a quarter in huge swaths 
 
 {{<localplotly "OH/grouping.html" 600 600>}}
 
-In the aggregate, Republican voting was slightly up, but Democratic voting cratered in 2016 compared to 2012.  If Trump had at all approximated Romney, he would have won the state because Democrat votes disappeared.  Circumstantially, it is plausible that Trump flipped Obama voters in coal country.  Overall, Clinton lost the state more than Trump won it because of her diminished vote counts in the Cleveland region (which dwarfed GOP gains there).
+In the aggregate, Republican voting was slightly up, but Democratic voting cratered in 2016 compared to 2012.  So many Democratic voters failed to turn out that Trump only had to do as well as Romney to win. He did better than Romney.  Circumstantially, it is plausible that Trump flipped Obama voters in coal country.  Overall, Clinton lost the state more than Trump won it because of her diminished vote counts in the Cleveland region (which dwarfed GOP gains there).
 
 ### Ohio Support Change vs Education and Whiteness, with Support Change from <80% White Counties in the US
 
 {{<localplotly "OH/compare_scatter.html" 600 600>}}
 
-Toggle these series ^ to see the datasets independently.
+Toggle these series ^ to see the datasets independently.  Red dots are coal counties, orange are coal-adjascent, other are neither.
 
 Some things to note:
 
@@ -124,7 +124,7 @@ Three of the four that aren't, Ashtabula, Adams, and Brown, as still in the swat
 
 #### There is a strong HS-education-only relationship with the Trump shift
 
-If you unselect trace1, showing only trace0, you will see a very strong relationship between change in Republican support % and % of county with only a HS degree.  If you reselect trace1, you will see that the rest of the original data also showed an education sensitivity.  The two datasets are showing the same thing (an education relationship) with different degrees of severity.  _Maybe the drumstick plot, which looked like a poorer relationship, is actually a collection of stronger relationships with varying sensitivity to education_.
+If you unselect "OH counties", showing only "<80% White US Counties", you will see a very strong relationship between change in Republican support % and % of county with only a HS degree.  If you reselect "OH counties", you will see that the rest of the original data also showed an education sensitivity.  The two datasets are showing the same thing (an education relationship) with different degrees of severity.  _Maybe the drumstick plot, which looked like a poorer relationship, is actually a collection of stronger relationships with varying sensitivity to education_.
 
 #### Something is weird about Holmes county
 
@@ -132,8 +132,9 @@ As a fun note: why is Holmes county a huge outlier in this chart?  Honestly, my 
 
 > The Amish community in Holmes County established in 1808, had a 17,654 adherents in 2010,[22] or 41.7% of the county's population.
 
-
 (Via [Wikipedia](https://en.wikipedia.org/wiki/Holmes_County,_Ohio#Amish_community))
+
+In other words, it looks like religious culture, whether is Mormon or Amish, still matters.
 
 ***
 

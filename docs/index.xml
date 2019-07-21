@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Think Carefully About Charts on Understanding the 2016 Presidential Election</title>
+    <title>Understanding the 2016 Election</title>
     <link>https://bwarren2.github.io/voting_2016/</link>
-    <description>Recent content in Think Carefully About Charts on Understanding the 2016 Presidential Election</description>
+    <description>Recent content on Understanding the 2016 Election</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Feb 2019 01:58:58 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2019 19:39:03 -0400</lastBuildDate>
     
 	<atom:link href="https://bwarren2.github.io/voting_2016/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Feedback</title>
+      <link>https://bwarren2.github.io/voting_2016/slides-1.0/feedback/</link>
+      <pubDate>Sun, 21 Jul 2019 19:39:03 -0400</pubDate>
+      
+      <guid>https://bwarren2.github.io/voting_2016/slides-1.0/feedback/</guid>
+      <description>TL;DR: Please answer these five questions.
+I started this piece months ago, and have been working on it during nights and weekends. As I dug into the question of who actually got Trump elected, it kept getting larger: &amp;ldquo;But what about religion effects? Military service?&amp;rdquo; You have seen the charts and story that made the most sense to me, with dead ends left out.
+This work is obviously not done; there are more states to cover, and we haven&amp;rsquo;t really touched &amp;ldquo;But why did noncollege whites vote like this?</description>
+    </item>
     
     <item>
       <title>About</title>

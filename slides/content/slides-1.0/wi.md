@@ -58,7 +58,7 @@ Dem support fell apart across the state, and Milwaukee was the biggest single-co
 
 ## What Happened There?
 
-Interestingly, there was extensive 3rd party voting in the Other Metro counties, which made the biggest difference in Clinton's outcomes.  (Clinton needed to lose roughyl 200K votes compared to the Obama 2012 total, and half of that came from the Other Metro category.)  There are several possible stories here, considering that Libertarian (and Republican governor) Gary Johnson took 100K of the 3rd party vote and Jill Stein took only 31K:
+Interestingly, there was extensive 3rd party voting in the Other Metro counties, which made the biggest difference in Clinton's outcomes.  (Clinton needed to lose roughly 200K votes compared to the Obama 2012 total, and half of that came from the Other Metro category.)  There are several possible stories here, considering that Libertarian (and Republican governor) Gary Johnson took 100K of the 3rd party vote and Jill Stein took only 31K:
 
  1. Did 2012 Democrats pull the lever for the Libertarian in 2016?
  + Did those voters stay home while some Republicans protest-voted and new voters came in to replace the 2012 Republicans in voting for Trump?
@@ -138,6 +138,8 @@ Trump's margin was 22,748 votes, so the high value from that study would flip th
 
 {{<localplotly "WI/WI_MN_turnout_bars.html" 600 600>}}
 
+The X axis here is % change in turnout.  The bars and lines show inferred distributions, the ticks are specific data points.
+
 Observe the same story as Wisconsin: nearly identical 2012 and 2016 Republican votes, and a big drop-off in Democratic votes.  These states are neighbors, and demographically pretty similar; they probably experienced declining Democratic voting for similar reasons, and only one state had restrictions.  These restrictions probably did not produce the majority of the Democratic vote decline.
 
 ### Percent Change in Democratic Vote From 2012 to 2016
@@ -156,6 +158,10 @@ Observe that the D percent changes top out near zero, while the R percent change
  + Voter suppression occurred in Wisconsin, but was likely smaller than several reports would have you believe.  Depending on the methodology and error bars, it is possible that voter suppression was what flipped the state, but 1) it is not a given that is true, 2) declining Democratic votes compared to 2012 are the much larger factor.
  + Democratic turnout declined in almost every location, with the best counties merely running in place.  Running a candidate who can maintain turnout in core areas without turning out Democrats in non-core areas costs votes.
 
+***
+<center>
+## [The end, for now]({{< ref "feedback" >}})
+</center>
 ***
 
 ### Coda 1: More on Minnesota
