@@ -7,7 +7,7 @@ author: "Ben"
 
 If we glance at the race/education/Trump shift chart, it looks like there is a linear relationship in education except for (roughly) these red points:
 
-{{<localplotly "simple-3d-scatter-colored.html" 900 800>}}
+{{<localplotly "simple-3d-scatter-colored.html" 800 800>}}
 
 (Remember that you can rotate 3D plots by clicking and dragging.  I just eyeballed this slice, it was not scientific.  It should be close enough for the broad-strokes analysis we'll do though.)
 
@@ -17,7 +17,7 @@ We can filter out all of the gray points and think of them as explained by the e
 
 If we remove a bunch of states to zoom in on the midwest, we get this:
 
-{{<localplotly "outlier_zoom.html" 1000 500>}}
+{{<localplotly "outlier_zoom.html" 800 500>}}
 
 (Remember, you can toggle some of the buckets of data as invisible by clicking them in the legend.)
 
