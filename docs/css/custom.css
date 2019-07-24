@@ -1,12 +1,5 @@
-@media (max-width: 799px) {
-    img {
-       max-width: 100%);
-    }
-}
-@media (min-width: 800px) {
-    img {
-       max-width: 800px);
-    }
+img {
+   max-width: 800px;
 }
 
 .sidebar1 {

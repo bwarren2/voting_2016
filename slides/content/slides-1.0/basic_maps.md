@@ -10,22 +10,30 @@ author: "Ben W"
 
 ![Percent Dem 2016](/maps/percent_dem_2016.png)
 
+Predictably, in 2016 Dems won a belt of support from Mississippi through the Carolinas, ([the Black Belt](https://en.wikipedia.org/wiki/Black_Belt_(U.S._region)#/media/File:New_2000_black_percent.gif)), and in coastal cities.
 
 # Where did Republicans have a large percentage of the vote?
 
 ![Percent Rep 2016](/maps/percent_republican_2016.png)
 
-# Where and how did the Democratic turnout change?
+Republicans won in rural areas in 2016.  But how was turnout different from 2012?
+
+# Where and how did the Democratic turnout change compared to 2012?
 
 ![Dem Change](/maps/dem_vote_change.png)
 
-# Where and how did the Republican turnout change?
+In the first sign of trouble, Democratic turnout was sharply down almost everywhere in the American interior, with very few increases even in coastal states.
+
+# Where and how did the Republican turnout change compared to 2012?
 
 ![Rep Change](/maps/r_vote_change.png)
+
+By contrast, Republican turnout was somewhat higher in the interior.  However, Republican support was down from 2012 levels in several Western states, both conservative (Utah, Idaho) and liberal (Washington, California).
 
 # Where was the net Republican shift?
 
 ![R Shift](/maps/republican_shift.png)
+
 
 ## Methods
 
