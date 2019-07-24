@@ -138,13 +138,13 @@ Trump's margin was 22,748 votes, so the high value from that study would flip th
 
 {{<localplotly "WI/WI_MN_turnout_bars.html" 600 600>}}
 
-The X axis here is % change in turnout.  The bars and lines show inferred distributions, the ticks are specific data points.
-
 Observe the same story as Wisconsin: nearly identical 2012 and 2016 Republican votes, and a big drop-off in Democratic votes.  These states are neighbors, and demographically pretty similar; they probably experienced declining Democratic voting for similar reasons, and only one state had restrictions.  These restrictions probably did not produce the majority of the Democratic vote decline.
 
 ### Percent Change in Democratic Vote From 2012 to 2016
 
 {{<localplotly "WI/both_distributions.html" 600 600>}}
+
+The X axis here is % change in turnout.  The bars and lines show inferred distributions, the ticks are specific data points.
 
 Observe that the D percent changes top out near zero, while the R percent changes have a couple decreased turnouts but generally positive turnout.  (The mostly-neutral turnout D turnout changes are in core-demographic areas like big cities.)
 
