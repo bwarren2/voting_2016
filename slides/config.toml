@@ -1,12 +1,63 @@
-baseURL = "https://bwarren2.github.io/voting_2016/"
-languageCode = "en-us"
 title = "Understanding the 2016 Election"
-theme = "tale-hugo"
 canonifyurls = true
+baseURL = "https://bwarren2.github.io/voting_2016/"
 author = "Ben"
+theme = "inkblotty"
+paginate = 10
+
+languageCode = "en-us"
+DefaultContentLanguage = "en-us"
+hasCJKLanguage = "true"
+
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+
+disqusShortname = ""
 googleAnalytics = "UA-124735498-2"
+
+summaryLength=150
+
+[permalinks]
+  post = "/:slug/"
+  page = "/:slug/"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  archive = "archives"
+
+[[menu.main]]
+  identifier = "posts"
+  name = "All Posts"
+  url = "https://bwarren2.github.io/voting_2016/slides-1.0/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "https://bwarren2.github.io/voting_2016/about/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "feedback"
+  name = "Give Feedback"
+  url = "https://bwarren2.github.io/voting_2016/slides-1.0/feedback/"
+  weight = 10
+
+
+[Params]
+  readmore = true
+  css = ["css/custom.css"]
+
+[outputs]                          # c.f. https://gohugo.io/templates/output-formats/
+  home = ["HTML", "RSS"]
+  page =  ["HTML"]
+  section =  ["HTML", "RSS"]
+  taxonomyTerm =  ["HTML", "RSS"]
+  taxonomy =  ["HTML", "RSS"]
+
+[sitemap]
+  filename = "sitemap.xml"  # c.f. https://gohugo.io/templates/sitemap-template/#configure-sitemap-xml
 
 [Author]
     name = "Ben"
-[Params]
-    css = ["css/custom.css"]

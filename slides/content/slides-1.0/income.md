@@ -11,4 +11,4 @@ This chart is easy to misread, because it doesn't display differences.  What if 
 
 In order to get a handle on what changed between 2012 (when the Democrat won) and 2016 (when the Republican won), we need to take the differences between those years.
 
-So let's [do that.]({{< ref "basic_maps" >}})
+## [So let's do that.]({{< ref "basic_maps" >}})
