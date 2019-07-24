@@ -998,8 +998,11 @@ form.search input {
 .post-content {
   word-wrap: break-word; }
   .post-content img {
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
     border-radius: .3rem;
-    max-width: 100%; }
+    max-width: 800px; }
 .post-footer {
   border-bottom: thin solid #767676;
   clear: both;
