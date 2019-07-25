@@ -1,3 +1,11 @@
+youtube gif
+gray map
+ny to the all map
+netlify [x]
+fix h1 links
+fix specific path links in menu and on homepage.
+
+
 It is a capital mistake to hypothesize without data
 
 I did it 35 minutes ago

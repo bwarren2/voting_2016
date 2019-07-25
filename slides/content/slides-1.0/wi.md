@@ -185,8 +185,8 @@ Further, the fraud that voter ID laws would stop doesn't make much sense.  Why s
 It is pure villainy to seek election by denying your opponents votes, and as far as my research shows:
 
 1. Voter-ID laws are a generally-Republican practice.
-+. There is no reasonable basis in evidence for using them to stop actual fraud.
-+. There is very real evidence of using them to disenfranchise other Americans who don't agree with you.
+1. There is no reasonable basis in evidence for using them to stop actual fraud.
+1. There is very real evidence of using them to disenfranchise other Americans who don't agree with you.
 
 Don't just judge an idea on how it sounds.  Inspect how it operates in the real world.
 

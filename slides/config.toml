@@ -1,6 +1,6 @@
 title = "Understanding the 2016 Election"
 canonifyurls = true
-baseURL = "https://bwarren2.github.io/voting_2016/"
+baseURL = "https://gifted-roentgen-302f88.netlify.com/"
 author = "Ben"
 theme = "inkblotty"
 paginate = 10
@@ -12,7 +12,7 @@ hasCJKLanguage = "true"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 
-disqusShortname = ""
+disqusShortname = "voting-2016"
 googleAnalytics = "UA-124735498-2"
 
 summaryLength=150
