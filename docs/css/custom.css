@@ -1,7 +1,9 @@
 img {
    max-width: 800px;
 }
-
+iframe{
+    margin: auto;
+}
 .sidebar1 {
     width: 25%
 }

@@ -6,10 +6,22 @@
     <description>Recent content in Slides-1.0s on Understanding the 2016 Election</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jul 2019 19:39:03 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2019 20:59:19 -0400</lastBuildDate>
     
 	<atom:link href="https://bwarren2.github.io/voting_2016/slides-1.0/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Others</title>
+      <link>https://bwarren2.github.io/voting_2016/slides-1.0/others/</link>
+      <pubDate>Wed, 24 Jul 2019 20:59:19 -0400</pubDate>
+      
+      <guid>https://bwarren2.github.io/voting_2016/slides-1.0/others/</guid>
+      <description>So what about the other states? From our original map, a big swath of the midwest is in the &amp;ldquo;more Republican shift than explained by education&amp;rdquo; category. We&amp;rsquo;ve already covered several states: Ohio, Wisconsin, and Minnesota. I&amp;rsquo;d like to focus on some of those states that made the most difference:
+ Pennsylvania Michigan Iowa  Between these and the states we have already covered, we will have analyzed 5 of the 6 states that flipped in 2016.
+Iowa Iowa, like its neighbor Wisconsin, saw an enormous downturn in Democratic turnout across the state. It really didn&amp;rsquo;t matter which year&amp;rsquo;s Republican vote total you used, or that Trump made gains, because the 2016 Democratic showing was the worst party showing by votes since the 2008 election.
+  This really shows up in the distributions of turnout by county. A huge fraction of the Iowa counties had a third of Democratic voters not repeat a Democratic vote in 2016.</description>
+    </item>
     
     <item>
       <title>Feedback</title>

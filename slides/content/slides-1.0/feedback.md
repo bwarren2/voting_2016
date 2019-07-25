@@ -27,3 +27,11 @@ This work is obviously not done; there are more states to cover, and we haven't 
 Please give me feedback!  It helps me improve and produce better work.  [I have a small Google form if you'd be kind enough to tell me what you think.](https://forms.gle/GVBzDjYxRgDm5Saa6)
 
 The next presidential election is coming, and we don't have much time to waste.  Those who do not learn from the past are doomed to repeat it.  If this has been a helpful essay for you, please let me know.
+
+# A final toy
+
+Want to see how different specific states look in our original data cube?  Try this:
+
+{{<localplotly "many.html" 800 800>}}
+
+I find the Michigan + Ohio line most striking personally, but some states like Tennessee can be surprising.

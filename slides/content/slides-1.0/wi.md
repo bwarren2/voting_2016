@@ -160,7 +160,7 @@ Observe that the D percent changes top out near zero, while the R percent change
 
 ***
 <center>
-## [The end, for now]({{< ref "feedback" >}})
+# [A few more states, then the end]({{< ref "others" >}})
 </center>
 ***
 
