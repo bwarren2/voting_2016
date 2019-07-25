@@ -12,11 +12,11 @@ From our original map, a big swath of the midwest is in the "more Republican shi
  * Michigan
  * Iowa
 
-Between these and the states we have already covered, we will have analyzed 5 of the 6 states that flipped in 2016.
+Between these and the states we have already covered, we will have analyzed 5 of the 6 states that flipped in 2016.  These will be shallower dives, because you have already seen the broad strokes of major trends in states we have covered, and (honestly) because that level of deep dive takes a long time.
 
 ## Iowa
 
-Iowa, like its neighbor Wisconsin, saw an enormous downturn in Democratic turnout across the state.  It really didn't matter which year's Republican vote total you used, or that Trump made gains, because the 2016 Democratic showing was the worst party showing by votes since the 2008 election.
+Iowa, like its neighbor Wisconsin, saw an enormous downturn in Democratic turnout across the state.  It really didn't matter which year's Republican vote total you used, or that Trump made gains, because the 2016 Democratic showing was the worst party showing by votes since at least 2004.
 
 {{<localplotly "IA/turnout_bars.html" 600 600>}}
 
