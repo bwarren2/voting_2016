@@ -1,6 +1,6 @@
 [build]
 publish = "docs"
-command = "cd slides && hugo -d  --gc --minify ../docs && cd .."
+command = "cd slides && hugo -d ../docs  --gc --minify && cd .."
 
 [context.production.environment]
 HUGO_VERSION = "0.55.6"
