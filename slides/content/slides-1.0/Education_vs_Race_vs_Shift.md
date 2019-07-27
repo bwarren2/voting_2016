@@ -51,7 +51,6 @@ Especially in the 93%+ white area, there are many points above the plane formed 
 
  * The "noise" we saw when looking at "% of county that is white" vs shift below 93%ish white is actually explained in the education dimension.  If you pick a region below that threshold, like the 40-60% range, you can see that as "% of county that is only high-school educated" increases, we get more shift, and that shows up as merely a cloud of points when you only look at % white vs shift
 
-## Next Steps
+So where are the
 
-
-[So where are the places in that anomalous area?]({{< ref "colored-outliers" >}})
+# [places in that anomalous area?]({{< ref "colored-outliers" >}})

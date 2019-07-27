@@ -22,9 +22,9 @@ An initial guess might be that coal miners had exceptionally negative views of H
 
 ### Miners might have especially disliked Clinton
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/ksIXqxpQNt0?start=11&end=17" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="Out of Business"></iframe>
-</div>
+
+
+<img src="/hillary1.gif" width="600" height="600" />
 
 > "We are going to put a lot of coal miners and coal companies out of business.  Right Tim?" - Hillary Clinton
 
