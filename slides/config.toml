@@ -29,19 +29,19 @@ summaryLength=150
 [[menu.main]]
   identifier = "posts"
   name = "All Posts"
-  url = "https://gifted-roentgen-302f88.netlify.com/voting_2016/slides-1.0/"
+  url = "https://gifted-roentgen-302f88.netlify.com/slides-1.0/"
   weight = 10
 
 [[menu.main]]
   identifier = "about"
   name = "About"
-  url = "https://gifted-roentgen-302f88.netlify.com/voting_2016/about/"
+  url = "https://gifted-roentgen-302f88.netlify.com/about/"
   weight = 10
 
 [[menu.main]]
   identifier = "feedback"
   name = "Give Feedback"
-  url = "https://gifted-roentgen-302f88.netlify.com/voting_2016/slides-1.0/feedback/"
+  url = "https://gifted-roentgen-302f88.netlify.com/slides-1.0/feedback/"
   weight = 10
 
 
