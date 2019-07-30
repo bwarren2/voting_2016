@@ -52,7 +52,8 @@ Special thanks to my friends, family, and especially the test readers and collab
  * Logan
  * Molly
  * Charlie
-
+ * Kit
+ * Owen
  * and Ella
 
 

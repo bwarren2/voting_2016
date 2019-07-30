@@ -1,12 +1,12 @@
-youtube gif 1
+<!-- youtube gif 1 -->
 Youtube gif 2
 
 <!-- gray map -->
 <!-- ny to the all map -->
 <!-- [x] netlify -->
 <!-- fix h1 links -->
-fix specific path links in menu and on homepage.
-disqus
+<!-- fix specific path links in menu and on homepage. -->
+<!-- disqus -->
 fix urls
 <!-- zoom -->
 
